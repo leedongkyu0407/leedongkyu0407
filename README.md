@@ -1,8 +1,8 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=100&section=header&text=DONGGYU%20LEE&fontSize=70)
-
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=100&section=header&text=DONGGYU%20LEE&fontSize=70)
+  
 </div>
 
 <div>
@@ -24,11 +24,11 @@
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" width=100 height=30 /> <img src="https://img.shields.io/badge/REDIS-FF4438?style=for-the-badge&logo=Redis&logoColor=white" width=100 height=30 /> <br><br>
 
   **Infra** <br><br>
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=Docker&logoColor=white" width=100 height=30 /> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" width=100 height=30 />  <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white" width=150 height=30 /> <br>
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=Docker&logoColor=white" width=100 height=30 /> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" width=100 height=30 />   <br>
 <img src="https://img.shields.io/badge/AMAZON%20EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white" width=130 height=30 /> <img src="https://img.shields.io/badge/AMAZON%20RDS-527FFF?style=for-the-badge&logo=AmazonRDS&logoColor=white" width=130 height=30 />  <img src="https://img.shields.io/badge/AMAZON%20S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white" width=130 height=30 /> <img src="https://img.shields.io/badge/AMAZON%20ELASTICACHE-C925D1?style=for-the-badge&logo=AmazonElasticache&logoColor=white" width=170 height=30 /> <br><br>
 
   **Tools** <br><br>
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white" width=100 height=30 /> <img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=Gitlab&logoColor=white" width=100 height=30 /> <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=Jira&logoColor=white" width=100 height=30 /> 
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white" width=100 height=30 /> <img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=Gitlab&logoColor=white" width=100 height=30 /> <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white" width=150 height=30 /> <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=Jira&logoColor=white" width=100 height=30 /> 
   
   ### 🕰️ History
 - **삼성 청년 SW 아카데미(SSAFY) 12기** : 2024. 07. 02 ~

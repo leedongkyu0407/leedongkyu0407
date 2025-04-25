@@ -8,7 +8,7 @@
 <div>
 
   <!--Body-->
-   ###  ✨ About Me :raising_hand:  ✨
+   ###  ✨ About Me 🙋‍♂️  ✨
   ---------------------------------
   #### I used to run a wholesale shop in Dongdaemun. <br/><br/> Now, I'm studying backend development. <br/><br/> I enjoy building scalable services, optimizing performance, and managing infrastructure.<br/><br/> Check out my blog where I share my journey!<br/><br/>
 <a href="https://velog.io/@donggyu47"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@donggyu47" width=100 height=30 />

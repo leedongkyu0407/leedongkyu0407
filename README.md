@@ -17,7 +17,7 @@
   ### 🛠️ Tech Stack
   **Backend** </br></br>
   <img src="https://img.shields.io/badge/JAVA-071D49?style=for-the-badge&logo=OpenJdk&logoColor=white" width=100 height=30 />   <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white" width=150 height=30 /> </br>
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=Python&logoColor=white" width=100 height=30 /> <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=Django&logoColor=white" width=100 height=30 /> <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" width=100 height=30 /> <br>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=Python&logoColor=white" width=100 height=30 /> <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=Django&logoColor=white" width=100 height=30 />  <br>
   <img src="https://img.shields.io/badge/GRAPHQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white" width=100 height=30 />
   <br><br>
 

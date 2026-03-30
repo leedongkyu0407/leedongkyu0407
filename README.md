@@ -38,11 +38,4 @@
 - **삼성 청년 SW 아카데미(SSAFY) 12기** : 2024. 07. 02 ~
 - 동대문 도매 매장 운영 : 2022. 03 ~ 2024.06
   <br><br>
-  
-### 📊 Stat
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leedongkyu0407&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leedongkyu0407&layout=compact)
-
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/use02012" width="600" height="300"/></a>
 </div>

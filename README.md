@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white" height=30 /> <img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=Gitlab&logoColor=white" height=30 /> <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white" height=30 /> <br>
 <img src="https://img.shields.io/badge/apache jmeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" height=30 /> <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height=30 /> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height=30 />
   ### 🕰️ History
-- **삼성 청년 SW 아카데미(SSAFY) 12기** : 2024. 07. 02 ~
+- **삼성 청년 SW 아카데미(SSAFY) 12기** : 2024. 07. 02 ~ 2025. 06. 30
 - 동대문 도매 매장 운영 : 2022. 03 ~ 2024.06
   <br><br>
 </div>

@@ -13,9 +13,9 @@
 
   #### I used to run a wholesale shop in Dongdaemun. <br/><br/> Now, I'm studying backend development. <br/><br/> I enjoy building scalable services, optimizing performance, and managing infrastructure.<br/><br/> Check out my blog where I share my journey!<br/><br/>
 <a href="https://velog.io/@donggyu47"><img src="https://img.shields.io/badge/velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@donggyu47" height=30 />
-<a href="https://arrangementforanything.notion.site/2017801fa5758021a039d1af2c8632fe" target="_blank">
+<!-- <a href="https://arrangementforanything.notion.site/2017801fa5758021a039d1af2c8632fe" target="_blank">
   <img src="https://img.shields.io/badge/📄Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" height=30 />
-</a>
+</a> -->
 </br></br>
   ### 🛠️ Tech Stack
   **Backend** </br></br>
